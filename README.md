@@ -21,6 +21,9 @@ This project provides an automated Python engine designed for e-commerce supply 
    Computes required replenishment orders targeting a standard 45-day inventory cover window:
    $$Suggested\ PO\ Qty = (\mu_{daily} \times Target\ Days\ Cover) - Safety\ Stock$$
 
+   ## Interactive Visualizations
+View the live interactive Tableau dashboard.
+
 ## Repository Structure
 ```text
 ├── demand_forecasting_replenishment_engine.ipynb  # Core Python analytical pipeline
